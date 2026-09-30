@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Local data copy (user copies from ai/data/)
+data/*.json
+!data/README.md
+
+.env
+.env.*
+!.env.example
+.azure/
+data/*.json
+output/
+artifacts/
+node_modules/
+dist/
+.venv/
+venv/
+__pycache__/
+*.pyc
+bin/
+obj/
+target/
